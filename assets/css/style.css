@@ -10,7 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Header font and format */
+/* Header font, format, color for the word Horiseon */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -27,6 +27,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Header font, text, moargin for navigation links */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -83,7 +84,7 @@ p {
     margin-left: 20px;
 }
 
-/* Benefits class for side section */
+/* Aside text, margin, display, color  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -117,7 +118,7 @@ p {
     max-width: 150px;
 }
 
-/* Text links- font, size, color, and background color */
+/* Section font, size, color, and margin */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
