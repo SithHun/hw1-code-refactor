@@ -8,7 +8,7 @@ File contains information of changed code, image of code, and deployed applicati
 
 *Add semantics for legacy code, comment for easier categorizing, clean-up redundant CSS/Class/HTML, and to keep webpage looking as it was before in appearance.*
 
-    1. Index.html has been updated to include titlem, headers, sub-headers in sequential order, semantics, comments, navigation bar, and alt-attributes.
+    1. Index.html has been updated to include title, headers, sub-headers in sequential order, semantics, comments, navigation bar, and alt-attributes.
     
     2. Style CSS has been modified for grouping, reduce redundancy in multiple class, added id functionality, and commented for easier reading. 
 
